@@ -1,5 +1,5 @@
-baseurl = "https://example.org"
-title = "Universal"
+baseurl = "https://deepdalytics.github.io/"
+title = "Dalytics"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -42,14 +42,14 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/deepdalytics"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
+#[[menu.topbar]]
+#    weight = 2
+#    name = "Facebook"
+#    url = "http://facebook.com"
+#    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -60,7 +60,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:deepdalytics@gmail.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]

@@ -71,7 +71,7 @@ paginate = 10
 
     # Twitter
     twitter = "GoHugoIO"
-    twitterImage = "img/twitter-default.png"
+    twitterImage = "img/seasons.R"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
